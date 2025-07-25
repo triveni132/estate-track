@@ -17,7 +17,6 @@ EstateTrack is a PostgreSQL-based system to manage real estate data and perform 
 - Average price by region
 - High-demand area view
 - Price trends using SQL window functions
-- Export results as CSV
 
 ---
 
