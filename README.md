@@ -30,7 +30,7 @@ The system includes 4 main entities and their relationships:
 - **Properties** → sold in → **Transactions**
 
 📷 *![ER Diagram](er_diagram_estate_track.png)*  
-*(Located in the repository)*
+
 
 ---
 
